@@ -1,0 +1,1052 @@
+[
+    {
+        "bank_id": "BNK-0001",
+        "bank_name": "Bank Nasional 1",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0002",
+        "bank_name": "Bank Nasional 2",
+        "bank_type": "BPRS",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0003",
+        "bank_name": "Bank Nasional 3",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0004",
+        "bank_name": "Bank Nasional 4",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0005",
+        "bank_name": "Bank Nasional 5",
+        "bank_type": "BPRS",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0006",
+        "bank_name": "Bank Nasional 6",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0007",
+        "bank_name": "Bank Nasional 7",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0008",
+        "bank_name": "Bank Nasional 8",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0009",
+        "bank_name": "Bank Nasional 9",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0010",
+        "bank_name": "Bank Nasional 10",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0011",
+        "bank_name": "Bank Nasional 11",
+        "bank_type": "BPRS",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0012",
+        "bank_name": "Bank Nasional 12",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0013",
+        "bank_name": "Bank Nasional 13",
+        "bank_type": "BPR",
+        "region": "Sulawesi",
+        "lps_status": "Intensif"
+    },
+    {
+        "bank_id": "BNK-0014",
+        "bank_name": "Bank Nasional 14",
+        "bank_type": "BPRS",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0015",
+        "bank_name": "Bank Nasional 15",
+        "bank_type": "BPR",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0016",
+        "bank_name": "Bank Nasional 16",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0017",
+        "bank_name": "Bank Nasional 17",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0018",
+        "bank_name": "Bank Nasional 18",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0019",
+        "bank_name": "Bank Nasional 19",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0020",
+        "bank_name": "Bank Nasional 20",
+        "bank_type": "BPR",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0021",
+        "bank_name": "Bank Nasional 21",
+        "bank_type": "BPR",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0022",
+        "bank_name": "Bank Nasional 22",
+        "bank_type": "BPR",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0023",
+        "bank_name": "Bank Nasional 23",
+        "bank_type": "BPRS",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0024",
+        "bank_name": "Bank Nasional 24",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0025",
+        "bank_name": "Bank Nasional 25",
+        "bank_type": "BPRS",
+        "region": "Jawa",
+        "lps_status": "Intensif"
+    },
+    {
+        "bank_id": "BNK-0026",
+        "bank_name": "Bank Nasional 26",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0027",
+        "bank_name": "Bank Nasional 27",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0028",
+        "bank_name": "Bank Nasional 28",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0029",
+        "bank_name": "Bank Nasional 29",
+        "bank_type": "BPR",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0030",
+        "bank_name": "Bank Nasional 30",
+        "bank_type": "BPRS",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0031",
+        "bank_name": "Bank Nasional 31",
+        "bank_type": "BPR",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0032",
+        "bank_name": "Bank Nasional 32",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0033",
+        "bank_name": "Bank Nasional 33",
+        "bank_type": "BPR",
+        "region": "Sumatera",
+        "lps_status": "Intensif"
+    },
+    {
+        "bank_id": "BNK-0034",
+        "bank_name": "Bank Nasional 34",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0035",
+        "bank_name": "Bank Nasional 35",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0036",
+        "bank_name": "Bank Nasional 36",
+        "bank_type": "BPR",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0037",
+        "bank_name": "Bank Nasional 37",
+        "bank_type": "BPR",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0038",
+        "bank_name": "Bank Nasional 38",
+        "bank_type": "BPR",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0039",
+        "bank_name": "Bank Nasional 39",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0040",
+        "bank_name": "Bank Nasional 40",
+        "bank_type": "BPRS",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0041",
+        "bank_name": "Bank Nasional 41",
+        "bank_type": "BPR",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0042",
+        "bank_name": "Bank Nasional 42",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Jawa",
+        "lps_status": "Intensif"
+    },
+    {
+        "bank_id": "BNK-0043",
+        "bank_name": "Bank Nasional 43",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0044",
+        "bank_name": "Bank Nasional 44",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Jawa",
+        "lps_status": "Dalam Pengawasan Khusus"
+    },
+    {
+        "bank_id": "BNK-0045",
+        "bank_name": "Bank Nasional 45",
+        "bank_type": "BPRS",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0046",
+        "bank_name": "Bank Nasional 46",
+        "bank_type": "BPR",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0047",
+        "bank_name": "Bank Nasional 47",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0048",
+        "bank_name": "Bank Nasional 48",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0049",
+        "bank_name": "Bank Nasional 49",
+        "bank_type": "BPRS",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0050",
+        "bank_name": "Bank Nasional 50",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0051",
+        "bank_name": "Bank Nasional 51",
+        "bank_type": "BPRS",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0052",
+        "bank_name": "Bank Nasional 52",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0053",
+        "bank_name": "Bank Nasional 53",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0054",
+        "bank_name": "Bank Nasional 54",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0055",
+        "bank_name": "Bank Nasional 55",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0056",
+        "bank_name": "Bank Nasional 56",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0057",
+        "bank_name": "Bank Nasional 57",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0058",
+        "bank_name": "Bank Nasional 58",
+        "bank_type": "BPR",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0059",
+        "bank_name": "Bank Nasional 59",
+        "bank_type": "BPRS",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0060",
+        "bank_name": "Bank Nasional 60",
+        "bank_type": "BPRS",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0061",
+        "bank_name": "Bank Nasional 61",
+        "bank_type": "BPRS",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0062",
+        "bank_name": "Bank Nasional 62",
+        "bank_type": "BPRS",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0063",
+        "bank_name": "Bank Nasional 63",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0064",
+        "bank_name": "Bank Nasional 64",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0065",
+        "bank_name": "Bank Nasional 65",
+        "bank_type": "BPRS",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0066",
+        "bank_name": "Bank Nasional 66",
+        "bank_type": "BPR",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0067",
+        "bank_name": "Bank Nasional 67",
+        "bank_type": "BPRS",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0068",
+        "bank_name": "Bank Nasional 68",
+        "bank_type": "BPRS",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0069",
+        "bank_name": "Bank Nasional 69",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0070",
+        "bank_name": "Bank Nasional 70",
+        "bank_type": "BPR",
+        "region": "Sulawesi",
+        "lps_status": "Dalam Pengawasan Khusus"
+    },
+    {
+        "bank_id": "BNK-0071",
+        "bank_name": "Bank Nasional 71",
+        "bank_type": "BPR",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0072",
+        "bank_name": "Bank Nasional 72",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Kalimantan",
+        "lps_status": "Intensif"
+    },
+    {
+        "bank_id": "BNK-0073",
+        "bank_name": "Bank Nasional 73",
+        "bank_type": "BPR",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0074",
+        "bank_name": "Bank Nasional 74",
+        "bank_type": "BPR",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0075",
+        "bank_name": "Bank Nasional 75",
+        "bank_type": "BPR",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0076",
+        "bank_name": "Bank Nasional 76",
+        "bank_type": "BPRS",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0077",
+        "bank_name": "Bank Nasional 77",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0078",
+        "bank_name": "Bank Nasional 78",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0079",
+        "bank_name": "Bank Nasional 79",
+        "bank_type": "BPR",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0080",
+        "bank_name": "Bank Nasional 80",
+        "bank_type": "BPR",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0081",
+        "bank_name": "Bank Nasional 81",
+        "bank_type": "BPR",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0082",
+        "bank_name": "Bank Nasional 82",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0083",
+        "bank_name": "Bank Nasional 83",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0084",
+        "bank_name": "Bank Nasional 84",
+        "bank_type": "BPRS",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0085",
+        "bank_name": "Bank Nasional 85",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0086",
+        "bank_name": "Bank Nasional 86",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0087",
+        "bank_name": "Bank Nasional 87",
+        "bank_type": "BPRS",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0088",
+        "bank_name": "Bank Nasional 88",
+        "bank_type": "BPR",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0089",
+        "bank_name": "Bank Nasional 89",
+        "bank_type": "BPR",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0090",
+        "bank_name": "Bank Nasional 90",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0091",
+        "bank_name": "Bank Nasional 91",
+        "bank_type": "BPRS",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0092",
+        "bank_name": "Bank Nasional 92",
+        "bank_type": "BPR",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0093",
+        "bank_name": "Bank Nasional 93",
+        "bank_type": "BPRS",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0094",
+        "bank_name": "Bank Nasional 94",
+        "bank_type": "BPR",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0095",
+        "bank_name": "Bank Nasional 95",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0096",
+        "bank_name": "Bank Nasional 96",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0097",
+        "bank_name": "Bank Nasional 97",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sulawesi",
+        "lps_status": "Intensif"
+    },
+    {
+        "bank_id": "BNK-0098",
+        "bank_name": "Bank Nasional 98",
+        "bank_type": "BPR",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0099",
+        "bank_name": "Bank Nasional 99",
+        "bank_type": "BPR",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0100",
+        "bank_name": "Bank Nasional 100",
+        "bank_type": "BPRS",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0101",
+        "bank_name": "Bank Nasional 101",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0102",
+        "bank_name": "Bank Nasional 102",
+        "bank_type": "BPRS",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0103",
+        "bank_name": "Bank Nasional 103",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0104",
+        "bank_name": "Bank Nasional 104",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0105",
+        "bank_name": "Bank Nasional 105",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Intensif"
+    },
+    {
+        "bank_id": "BNK-0106",
+        "bank_name": "Bank Nasional 106",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0107",
+        "bank_name": "Bank Nasional 107",
+        "bank_type": "BPR",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0108",
+        "bank_name": "Bank Nasional 108",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0109",
+        "bank_name": "Bank Nasional 109",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0110",
+        "bank_name": "Bank Nasional 110",
+        "bank_type": "BPR",
+        "region": "Sumatera",
+        "lps_status": "Dalam Pengawasan Khusus"
+    },
+    {
+        "bank_id": "BNK-0111",
+        "bank_name": "Bank Nasional 111",
+        "bank_type": "BPR",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0112",
+        "bank_name": "Bank Nasional 112",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0113",
+        "bank_name": "Bank Nasional 113",
+        "bank_type": "BPR",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0114",
+        "bank_name": "Bank Nasional 114",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0115",
+        "bank_name": "Bank Nasional 115",
+        "bank_type": "BPRS",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0116",
+        "bank_name": "Bank Nasional 116",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0117",
+        "bank_name": "Bank Nasional 117",
+        "bank_type": "BPR",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0118",
+        "bank_name": "Bank Nasional 118",
+        "bank_type": "BPRS",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0119",
+        "bank_name": "Bank Nasional 119",
+        "bank_type": "BPRS",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0120",
+        "bank_name": "Bank Nasional 120",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0121",
+        "bank_name": "Bank Nasional 121",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0122",
+        "bank_name": "Bank Nasional 122",
+        "bank_type": "BPR",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0123",
+        "bank_name": "Bank Nasional 123",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Maluku & Papua",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0124",
+        "bank_name": "Bank Nasional 124",
+        "bank_type": "BPRS",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0125",
+        "bank_name": "Bank Nasional 125",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0126",
+        "bank_name": "Bank Nasional 126",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0127",
+        "bank_name": "Bank Nasional 127",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0128",
+        "bank_name": "Bank Nasional 128",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sumatera",
+        "lps_status": "Intensif"
+    },
+    {
+        "bank_id": "BNK-0129",
+        "bank_name": "Bank Nasional 129",
+        "bank_type": "BPRS",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0130",
+        "bank_name": "Bank Nasional 130",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0131",
+        "bank_name": "Bank Nasional 131",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0132",
+        "bank_name": "Bank Nasional 132",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0133",
+        "bank_name": "Bank Nasional 133",
+        "bank_type": "BPR",
+        "region": "Kalimantan",
+        "lps_status": "Intensif"
+    },
+    {
+        "bank_id": "BNK-0134",
+        "bank_name": "Bank Nasional 134",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0135",
+        "bank_name": "Bank Nasional 135",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Sulawesi",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0136",
+        "bank_name": "Bank Nasional 136",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0137",
+        "bank_name": "Bank Nasional 137",
+        "bank_type": "BPR",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0138",
+        "bank_name": "Bank Nasional 138",
+        "bank_type": "BPRS",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0139",
+        "bank_name": "Bank Nasional 139",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0140",
+        "bank_name": "Bank Nasional 140",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0141",
+        "bank_name": "Bank Nasional 141",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0142",
+        "bank_name": "Bank Nasional 142",
+        "bank_type": "Bank Umum Konvensional",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0143",
+        "bank_name": "Bank Nasional 143",
+        "bank_type": "BPRS",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0144",
+        "bank_name": "Bank Nasional 144",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0145",
+        "bank_name": "Bank Nasional 145",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Kalimantan",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0146",
+        "bank_name": "Bank Nasional 146",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0147",
+        "bank_name": "Bank Nasional 147",
+        "bank_type": "BPR",
+        "region": "Sumatera",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0148",
+        "bank_name": "Bank Nasional 148",
+        "bank_type": "BPR",
+        "region": "Sumatera",
+        "lps_status": "Intensif"
+    },
+    {
+        "bank_id": "BNK-0149",
+        "bank_name": "Bank Nasional 149",
+        "bank_type": "Bank Umum Syariah",
+        "region": "Jawa",
+        "lps_status": "Normal"
+    },
+    {
+        "bank_id": "BNK-0150",
+        "bank_name": "Bank Nasional 150",
+        "bank_type": "BPR",
+        "region": "Bali & Nusa Tenggara",
+        "lps_status": "Intensif"
+    }
+]
